@@ -65,14 +65,14 @@ body{
     bottom: 45%;
     left: 50%;
     font-size: 23px;
-    transform: translateX(-50%);
+    transform: translateX(-80%);
     color: whitesmoke;
 }
 .textcenter1 {
     position: absolute;
     bottom: 35%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-80%);
     color: white;
 }
 
